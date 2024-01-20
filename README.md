@@ -35,15 +35,15 @@
 15-Solving the Missing Value Problem
 
 ####################
-# Solution 1: Quick deletion
+Solution 1: Quick deletion
 
 ####################
-# Solution 2: Filling with Simple Assignment Methods
+Solution 2: Filling with Simple Assignment Methods
 
 1-Assigning Values in Categorical Variable Breakdown
 
 #######################
-# Solution 3: Filling with Predictive Assignment
+Solution 3: Filling with Predictive Assignment
 
 1-Recap
 
