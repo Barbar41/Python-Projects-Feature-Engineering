@@ -35,14 +35,17 @@
 15-Solving the Missing Value Problem
 
 ####################
+
 Solution 1: Quick deletion
 
 ####################
+
 Solution 2: Filling with Simple Assignment Methods
 
 1-Assigning Values in Categorical Variable Breakdown
 
 #######################
+
 Solution 3: Filling with Predictive Assignment
 
 1-Recap
@@ -137,6 +140,7 @@ Solution 3: Filling with Predictive Assignment
 7-Model
 
 #######################
+
 --Dependent variable Survived, independent variables Paasnger id and variables other than Surived
 --We divide the data set into two: train and test.
 --We will hold a model in Train, we will be testing this model that I built with the test.
