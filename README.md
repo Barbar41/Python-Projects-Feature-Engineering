@@ -86,7 +86,6 @@ Solution 3: Filling with Predictive Assignment
 ####################
 #### Analyzing the relationship between rare categories and the dependent variable.
 
-
 #######################
 #### 3-Writing the rare encoder.
 
@@ -142,13 +141,19 @@ Solution 3: Filling with Predictive Assignment
 #######################
 
 --Dependent variable Survived, independent variables Paasnger id and variables other than Surived
+
 --We divide the data set into two: train and test.
+
 --We will hold a model in Train, we will be testing this model that I built with the test.
+
 --Let's bring the model object, a tree-based method
 
 --Setting up the model x train independent variables y train target dependent variable
+
 --Prediction of dependent variables of the test set
+
 --Set the test set with the dependent variable y
+
 --The score to be obtained without any action?
 
 --How are the newly produced variables doing?
