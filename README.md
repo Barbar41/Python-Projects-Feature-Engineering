@@ -2,7 +2,7 @@
 #### FEATURE ENGINEERING & DATA PRE-PROCESSING
 
 #######################
-#### 1-Outliers
+#### Outliers
 
 1-Capturing Outliers
 
